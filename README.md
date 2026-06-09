@@ -90,6 +90,6 @@ No credit card required. [Sign up →](https://fastrouter.ai/sign-up)
 
 ## Connect
 
-- [Discord](https://discord.gg/QfTgEtMyyU)
 - [Twitter / X](https://twitter.com/fastrouterai)
 - [LinkedIn](https://linkedin.com/company/fastrouter-ai)
+- [Discord](https://discord.gg/QfTgEtMyyU)
