@@ -46,8 +46,6 @@ response = client.chat.completions.create(
     messages=[{"role": "user", "content": "Hello"}]
 )
 ```
-</div>
-
 <div align="center">
     
 ## [Sign up free: no credit card required!](https://fastrouter.ai/sign-up)
