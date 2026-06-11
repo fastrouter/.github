@@ -1,8 +1,35 @@
-# FastRouter
+<div align="center">
+
+# ⚡️FastRouter
 
 **One API. Every Model. Production Ready.**
 
-Unified LLM gateway routing requests across 100+ models: OpenAI, Anthropic, Google, Meta, xAI, Cohere and more: through a single OpenAI-compatible endpoint.
+</div>
+
+<div align="center">
+
+[![Docs](https://img.shields.io/badge/Docs-0A0F1E?style=flat&logo=gitbook&logoColor=white)](https://docs.fastrouter.ai)
+[![Free Audit](https://img.shields.io/badge/Free_Audit-0F172A?style=flat&logo=checkmarx&logoColor=white)](https://fastrouter.ai/audit)
+[![Discord](https://img.shields.io/badge/Discord-0A0F1E?style=flat&logo=discord&logoColor=white)](https://discord.gg/QfTgEtMyyU)
+[![X](https://img.shields.io/badge/X-0F172A?style=flat&logo=x&logoColor=white)](https://twitter.com/fastrouterai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1E?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/company/fastrouter-ai)
+
+</div> 
+
+<div align="left">
+
+Unified LLM API gateway routing requests across 100+ models from OpenAI, Anthropic, Google, Meta, xAI, Cohere and more, through a single OpenAI-compatible endpoint.
+
+**🔀 Intelligent Routing** : Auto-select models by cost, latency, or quality  
+**🛡️ Governance** : Per-key budgets, RBAC, BYOK, spend alerts  
+**📊 Observability** : Unified logs, tracing, latency quantiles across all providers  
+**🧪 Evals & Quality** : Custom evals, prompt optimization, guardrails, caching  
+**🔌 MCP Gateway** : Connect any MCP server, scoped per project  
+**⚡ IDE Integrations** : Cursor, Cline, Claude Code,  Codex, Roo and lot many
+
+</div>
+
+---
 
 ## Quick start
 
@@ -19,20 +46,10 @@ response = client.chat.completions.create(
     messages=[{"role": "user", "content": "Hello"}]
 )
 ```
+</div>
 
-## Features
+<div align="center">
+    
+## [Sign up free: no credit card required!](https://fastrouter.ai/sign-up)
 
-- **Routing**: Auto model selection, virtual aliases, fallbacks, provider strategies, free & flex pricing
-- **Multimodal**: Chat, embeddings, image, audio, video, PDF, web search, realtime
-- **Governance**: Per-key budgets, RBAC, BYOK, provisioning keys, spend alerts
-- **Observability**: Unified dashboard, activity logs, tracing (W3C), latency quantiles
-- **Evals & Quality**: Custom evals, prompt optimization (GEPA), guardrails, caching
-- **MCP Gateway**: Connect any MCP server with OAuth 2.0, scoped per project, auto-execution
-- **Batch Processing**: Up to 50K requests per job
-- **IDE Integrations**: Cursor, Cline, Claude Code
-
-## Links
-
-[Docs](https://docs.fastrouter.ai) · [Dashboard](https://dashboard.fastrouter.ai) · [Free Audit](https://fastrouter.ai/audit) · [Sign up free](https://fastrouter.ai/sign-up)
-
-[Discord](https://discord.gg/QfTgEtMyyU) · [X](https://twitter.com/fastrouterai) · [LinkedIn](https://linkedin.com/company/fastrouter-ai)
+</div>
